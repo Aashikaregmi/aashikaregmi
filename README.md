@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aashika 👋
 
-<!--
-**Aashikaregmi/aashikaregmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A versatile engineer based in Pokhara, Nepal. I build AI-powered products
+end-to-end; the kind where an LLM API is doing the interesting work
+and a real backend is making sure it holds up in production.
 
-Here are some ideas to get you started:
+Most of my work sits at the seam between **LLMs and full-stack
+engineering**: designing prompts and agentic workflows on one side,
+and on the other, the unglamorous plumbing that makes AI features
+actually reliable — auth, rate limits, SSE streaming, structured JSON
+responses, and sensible data models underneath it all. I like that
+neither half works without the other.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comfortable across the stack: **Python · TypeScript · FastAPI · Node.js ·
+Express · NestJS · React · Next.js · PostgreSQL · MongoDB**, with most
+of my recent work wrapped around the Claude API and agentic workflows.
+
+📫 aashikaregmi1234@gmail.com · [LinkedIn](https://linkedin.com/in/aashikaregmi)
