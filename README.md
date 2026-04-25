@@ -15,4 +15,4 @@ Comfortable across the stack: **Python · TypeScript · FastAPI · Node.js ·
 Express · NestJS · React · Next.js · PostgreSQL · MongoDB**, with most
 of my recent work wrapped around the Claude API and agentic workflows.
 
-📫 aashikaregmi1234@gmail.com · [LinkedIn](https://linkedin.com/in/aashikaregmi)
+[LinkedIn](https://linkedin.com/in/aashikaregmi)
